@@ -1,0 +1,12 @@
+# Ignore a specific file
+.env
+.venv/
+
+# Ignore a specific folder (end with a slash)
+node_modules/
+__pycache__/
+build/
+
+# Ignore all files with a specific extension
+*.log
+.DS_Store
